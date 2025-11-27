@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "MP2696AGQ")(type "KiCad")(uri "${KIPRJMOD}/Downloaded Symbols and Footprints/MP2696AGQ_0000_P/KiCADv6/2025-11-27_07-22-46.kicad_sym")(options "")(descr ""))
   (lib (name "Custom")(type "KiCad")(uri "${KIPRJMOD}/Custom/Custom.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105")(type "KiCad")(uri "${KIPRJMOD}/Downloaded Symbols and Footprints/USB4105_GF_A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )

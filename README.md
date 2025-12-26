@@ -17,3 +17,12 @@ I wanted to practice more with PCB design, so I'm making this upgrade to my curr
 Current Hardware (11/24):
 -RunCam Night Eagle v2
 -What I think is a V760 Display Assembly
+
+Plan (12/26/25):
+1. (We are here!) Create Breakout board for MP2696A battery charging boast monitor combo circuit
+2. Write Arduino library for MP2696A
+3. test and tweak until operational MP2696A circuit with STM32 Nucleo
+4. Integrate little aliexpress Oled
+5. Create final combo pcb with STM32 embedded
+6. Create housing with hot swappable 18650
+7. Profit?

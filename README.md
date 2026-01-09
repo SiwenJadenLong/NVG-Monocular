@@ -26,3 +26,6 @@ Plan (12/26/25):
 5. Create final combo pcb with STM32 embedded
 6. Create housing with hot swappable 18650
 7. Profit?
+
+![TOP BOARD](top.png)
+![BOTTOM BOARD](bottom.png)
